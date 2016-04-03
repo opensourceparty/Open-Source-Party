@@ -9,4 +9,4 @@ The [Open Source Party](http://opensourceparty.net/) is a political movement tha
 
 As a matter of scope, we limit our activity to the United States but encourage development of a global Open Source party that creates models to work in other national contexts.
 
-Our effort is meant have a democratizing transformative effect that is fair to all. We’re committed to uses of technology to create platforms that will support our mission.
+Our effort is meant to have a democratizing and transformative effect that is fair for all. We’re committed to uses of technology platforms that will support our mission.
